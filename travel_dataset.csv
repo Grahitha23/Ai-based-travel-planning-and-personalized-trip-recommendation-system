@@ -1,0 +1,41 @@
+Destination,Place,Category,Rating,Cost
+Chennai,Marina Beach,Beach,4.5,0
+Chennai,Kapaleeshwarar Temple,Culture,4.4,50
+Chennai,Government Museum,History,4.3,75
+Chennai,Fort St. George,History,4.2,100
+Chennai,Birla Planetarium,Nature,4.4,100
+Chennai,Guindy National Park,Nature,4.3,50
+Chennai,San Thome Basilica,Culture,4.5,0
+Chennai,Elliot's Beach,Beach,4.4,0
+Goa,Baga Beach,Beach,4.6,0
+Goa,Fort Aguada,History,4.5,50
+Goa,Dudhsagar Falls,Nature,4.7,800
+Goa,Calangute Beach,Beach,4.5,0
+Goa,Basilica of Bom Jesus,History,4.6,50
+Goa,Anjuna Beach,Beach,4.4,0
+Goa,Chapora Fort,History,4.5,50
+Goa,Palolem Beach,Beach,4.7,0
+Ooty,Ooty Lake,Nature,4.5,20
+Ooty,Doddabetta Peak,Nature,4.7,100
+Ooty,Botanical Garden,Nature,4.6,50
+Ooty,Rose Garden,Nature,4.5,40
+Ooty,Pykara Lake,Nature,4.6,150
+Ooty,Pykara Waterfalls,Nature,4.5,100
+Ooty,Tea Factory,Culture,4.4,100
+Ooty,Avalanche Lake,Nature,4.6,200
+Bangalore,Lalbagh Botanical Garden,Nature,4.6,50
+Bangalore,Bangalore Palace,History,4.5,450
+Bangalore,Cubbon Park,Nature,4.7,0
+Bangalore,ISKCON Temple,Culture,4.6,100
+Bangalore,Vidhana Soudha,History,4.4,0
+Bangalore,Wonderla Amusement Park,Entertainment,4.3,1200
+Bangalore,Bannerghatta Biological Park,Nature,4.5,400
+Bangalore,Ulsoor Lake,Nature,4.2,50
+Kerala,Munnar Tea Gardens,Nature,4.8,200
+Kerala,Alleppey Backwaters,Nature,4.7,1000
+Kerala,Varkala Beach,Beach,4.6,0
+Kerala,Fort Kochi,History,4.5,50
+Kerala,Athirappilly Waterfalls,Nature,4.8,100
+Kerala,Kovalam Beach,Beach,4.5,0
+Kerala,Periyar Wildlife Sanctuary,Nature,4.7,500
+Kerala,Mattancherry Palace,History,4.4,50
